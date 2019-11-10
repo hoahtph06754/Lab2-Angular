@@ -1,0 +1,28 @@
+.row{
+    background-color: rgb(136, 166, 168);
+    padding-left: 30px;
+}
+.col-4{
+    margin-top: 20px;
+}
+
+.nav-link .nd{
+    color: rgb(78, 75, 75);
+    /* margin-left: 30px; */
+}
+.fab{
+    padding-right: 15px ;
+}
+.infoo{
+    margin-left: 120px;
+    color: rgb(78, 75, 75);
+}
+#info{
+    margin-top: 60px;
+}
+.infoo:hover{
+    color: brown;
+}
+.nd{
+    margin-top: 45px;
+}
