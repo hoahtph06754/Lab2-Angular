@@ -10,6 +10,8 @@ import { MenuComponent } from './menu/menu.component';
 import { ListGroupComponent } from './list-group/list-group.component';
 import { ReviewComponent } from './review/review.component';
 import { FooterComponent } from './footer/footer.component';
+import { ProductsComponent } from './products/products.component';
+import { SidebarComponent } from './sidebar/sidebar.component';
 
 @NgModule({
   declarations: [
@@ -19,7 +21,9 @@ import { FooterComponent } from './footer/footer.component';
     MenuComponent,
     ListGroupComponent,
     ReviewComponent,
-    FooterComponent
+    FooterComponent,
+    ProductsComponent,
+    SidebarComponent
   ],
   imports: [
     BrowserModule,
